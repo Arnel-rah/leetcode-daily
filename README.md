@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arnel-rah/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arnel-rah/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2785-sort-vowels-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/2785-sort-vowels-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
