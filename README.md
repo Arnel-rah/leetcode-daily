@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arnel-rah/leetcode-daily/tree/master/0015-3sum) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [3379-transformed-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnel-rah/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Arnel-rah/leetcode-daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arnel-rah/leetcode-daily/tree/master/0013-roman-to-integer) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0011-container-with-most-water) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 ## Trie
 |  |
 | ------- |
