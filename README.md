@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Arnel-rah/leetcode-daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arnel-rah/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [2785-sort-vowels-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/2785-sort-vowels-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
