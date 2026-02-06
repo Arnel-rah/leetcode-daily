@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arnel-rah/leetcode-daily/tree/master/0002-add-two-numbers) |
+| [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
 ## Math
 |  |
 | ------- |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Arnel-rah/leetcode-daily/tree/master/0129-sum-root-to-leaf-numbers) |
+## Design
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
