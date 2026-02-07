@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arnel-rah/leetcode-daily/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Arnel-rah/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Arnel-rah/leetcode-daily/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
