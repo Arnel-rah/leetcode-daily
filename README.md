@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 | [3379-transformed-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 | [2785-sort-vowels-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/2785-sort-vowels-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
+| [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arnel-rah/leetcode-daily/tree/master/0023-merge-k-sorted-lists) |
+| [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -170,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
