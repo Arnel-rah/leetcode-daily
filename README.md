@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 | [3379-transformed-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/3379-transformed-array) |
+| [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/3408-design-task-manager) |
+| [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 | [2785-sort-vowels-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/2785-sort-vowels-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
+| [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/3408-design-task-manager) |
+| [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/3408-design-task-manager) |
+## Matrix
+|  |
+| ------- |
+| [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
 <!---LeetCode Topics End-->
