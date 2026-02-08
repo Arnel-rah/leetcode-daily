@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/3408-design-task-manager) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arnel-rah/leetcode-daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1797-design-authentication-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/1797-design-authentication-manager) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/3408-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arnel-rah/leetcode-daily/tree/master/0023-merge-k-sorted-lists) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/3408-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -179,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/Arnel-rah/leetcode-daily/tree/master/3408-design-task-manager) |
 <!---LeetCode Topics End-->
