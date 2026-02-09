@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arnel-rah/leetcode-daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/Arnel-rah/leetcode-daily/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Arnel-rah/leetcode-daily/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
