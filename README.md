@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arnel-rah/leetcode-daily/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arnel-rah/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Arnel-rah/leetcode-daily/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
