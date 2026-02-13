@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arnel-rah/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arnel-rah/leetcode-daily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arnel-rah/leetcode-daily/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnel-rah/leetcode-daily/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Arnel-rah/leetcode-daily/tree/master/0051-n-queens) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
