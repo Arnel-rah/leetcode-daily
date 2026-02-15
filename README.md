@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Arnel-rah/leetcode-daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arnel-rah/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Arnel-rah/leetcode-daily/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
 ## Recursion
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arnel-rah/leetcode-daily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arnel-rah/leetcode-daily/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [3379-transformed-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/3379-transformed-array) |
 ## Brainteaser
@@ -254,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Arnel-rah/leetcode-daily/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
