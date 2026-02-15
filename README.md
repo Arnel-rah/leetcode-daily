@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Arnel-rah/leetcode-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Arnel-rah/leetcode-daily/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Arnel-rah/leetcode-daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arnel-rah/leetcode-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Arnel-rah/leetcode-daily/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arnel-rah/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Arnel-rah/leetcode-daily/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
