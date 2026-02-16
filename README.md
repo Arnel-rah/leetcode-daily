@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Arnel-rah/leetcode-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Arnel-rah/leetcode-daily/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Arnel-rah/leetcode-daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arnel-rah/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Arnel-rah/leetcode-daily/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Arnel-rah/leetcode-daily/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Arnel-rah/leetcode-daily/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arnel-rah/leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arnel-rah/leetcode-daily/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Arnel-rah/leetcode-daily/tree/master/0048-rotate-image) |
 | [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
 ## Backtracking
 |  |
