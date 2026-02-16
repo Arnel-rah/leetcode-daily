@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Arnel-rah/leetcode-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Arnel-rah/leetcode-daily/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Arnel-rah/leetcode-daily/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arnel-rah/leetcode-daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Arnel-rah/leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arnel-rah/leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Arnel-rah/leetcode-daily/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Arnel-rah/leetcode-daily/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Arnel-rah/leetcode-daily/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Arnel-rah/leetcode-daily/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Arnel-rah/leetcode-daily/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Arnel-rah/leetcode-daily/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Arnel-rah/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Arnel-rah/leetcode-daily/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Arnel-rah/leetcode-daily/tree/master/0049-group-anagrams) |
 | [2785-sort-vowels-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
