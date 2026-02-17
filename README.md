@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Arnel-rah/leetcode-daily/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Arnel-rah/leetcode-daily/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arnel-rah/leetcode-daily/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Arnel-rah/leetcode-daily/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Arnel-rah/leetcode-daily/tree/master/0056-merge-intervals) |
 | [2785-sort-vowels-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
