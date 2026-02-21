@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
+| [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arnel-rah/leetcode-daily/tree/master/0035-search-insert-position) |
+| [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Arnel-rah/leetcode-daily/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arnel-rah/leetcode-daily/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 ## Trie
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Arnel-rah/leetcode-daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Arnel-rah/leetcode-daily/tree/master/0056-merge-intervals) |
+| [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
