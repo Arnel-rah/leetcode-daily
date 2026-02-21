@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
 | [0812-largest-triangle-area](https://github.com/Arnel-rah/leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
+| [0976-largest-perimeter-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0976-largest-perimeter-triangle) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Arnel-rah/leetcode-daily/tree/master/0812-largest-triangle-area) |
+| [0976-largest-perimeter-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0976-largest-perimeter-triangle) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
 ## Recursion
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arnel-rah/leetcode-daily/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0976-largest-perimeter-triangle) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 ## Trie
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arnel-rah/leetcode-daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Arnel-rah/leetcode-daily/tree/master/0056-merge-intervals) |
 | [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0976-largest-perimeter-triangle) |
 | [2785-sort-vowels-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
