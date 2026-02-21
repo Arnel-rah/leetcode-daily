@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Arnel-rah/leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0976-largest-perimeter-triangle) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Arnel-rah/leetcode-daily/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arnel-rah/leetcode-daily/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Arnel-rah/leetcode-daily/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Greedy
 |  |
 | ------- |
