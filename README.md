@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Arnel-rah/leetcode-daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arnel-rah/leetcode-daily/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
+| [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arnel-rah/leetcode-daily/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
