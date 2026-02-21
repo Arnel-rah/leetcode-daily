@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
+| [0812-largest-triangle-area](https://github.com/Arnel-rah/leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Arnel-rah/leetcode-daily/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/Arnel-rah/leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
 ## Recursion
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arnel-rah/leetcode-daily/tree/master/0042-trapping-rain-water) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Arnel-rah/leetcode-daily/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
