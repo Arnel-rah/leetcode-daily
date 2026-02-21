@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Arnel-rah/leetcode-daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arnel-rah/leetcode-daily/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
 ## Recursion
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Arnel-rah/leetcode-daily/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Arnel-rah/leetcode-daily/tree/master/0190-reverse-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Monotonic Stack
 |  |
 | ------- |
