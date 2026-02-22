@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Arnel-rah/leetcode-daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arnel-rah/leetcode-daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arnel-rah/leetcode-daily/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Arnel-rah/leetcode-daily/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Arnel-rah/leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Arnel-rah/leetcode-daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
 ## Backtracking
 |  |
