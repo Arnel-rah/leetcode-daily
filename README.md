@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Arnel-rah/leetcode-daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arnel-rah/leetcode-daily/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Arnel-rah/leetcode-daily/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Arnel-rah/leetcode-daily/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Arnel-rah/leetcode-daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arnel-rah/leetcode-daily/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Arnel-rah/leetcode-daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Arnel-rah/leetcode-daily/tree/master/0812-largest-triangle-area) |
