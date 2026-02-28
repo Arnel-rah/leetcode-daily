@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Arnel-rah/leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0976-largest-perimeter-triangle) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Arnel-rah/leetcode-daily/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3227-vowels-game-in-a-string](https://github.com/Arnel-rah/leetcode-daily/tree/master/3227-vowels-game-in-a-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Arnel-rah/leetcode-daily/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3379-transformed-array](https://github.com/Arnel-rah/leetcode-daily/tree/master/3379-transformed-array) |
 ## Brainteaser
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Arnel-rah/leetcode-daily/tree/master/0190-reverse-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arnel-rah/leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Arnel-rah/leetcode-daily/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
