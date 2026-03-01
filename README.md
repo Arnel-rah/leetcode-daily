@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Arnel-rah/leetcode-daily/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Arnel-rah/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0611-valid-triangle-number](https://github.com/Arnel-rah/leetcode-daily/tree/master/0611-valid-triangle-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Arnel-rah/leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Arnel-rah/leetcode-daily/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Arnel-rah/leetcode-daily/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Arnel-rah/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnel-rah/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Arnel-rah/leetcode-daily/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Arnel-rah/leetcode-daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arnel-rah/leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arnel-rah/leetcode-daily/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Arnel-rah/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [3484-design-spreadsheet](https://github.com/Arnel-rah/leetcode-daily/tree/master/3484-design-spreadsheet) |
 ## Backtracking
 |  |
