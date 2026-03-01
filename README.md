@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arnel-rah/leetcode-daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Arnel-rah/leetcode-daily/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Arnel-rah/leetcode-daily/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Arnel-rah/leetcode-daily/tree/master/0072-edit-distance) |
 | [0966-vowel-spellchecker](https://github.com/Arnel-rah/leetcode-daily/tree/master/0966-vowel-spellchecker) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arnel-rah/leetcode-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2353-design-a-food-rating-system](https://github.com/Arnel-rah/leetcode-daily/tree/master/2353-design-a-food-rating-system) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Arnel-rah/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arnel-rah/leetcode-daily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Arnel-rah/leetcode-daily/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Arnel-rah/leetcode-daily/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Arnel-rah/leetcode-daily/tree/master/0120-triangle) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Arnel-rah/leetcode-daily/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Greedy
